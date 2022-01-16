@@ -1,14 +1,5 @@
 ## Treasure Map
 
-# UPDATE
-We've moved away from repl.it for coding exercises.
-Check out the new exercises on Coding Rooms with automated submissions.
-
-Login to your Udemy course and head over to the link below to get the sign up link:
-
-[Click here](https://www.udemy.com/course/100-days-of-code/learn/lecture/17825914#questions)
-
-![](https://cdn.fs.teachablecdn.com/wiFJAkZZSG2RpGsxYgDO)
 # Instructions
 
 You are going to write a program which will mark a spot with an X.
